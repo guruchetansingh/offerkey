@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     private  String udf4 = "";
     private  String udf5 = "";
     //madatory
-    // both offer keys will expire on 15 Nov 2015
+    // both offer keys will expire on 31 Dec 2015
   private String offer_key ="guru_offer@7260";//for all cards catagory for testing
 //    private String offer_key ="guru_offer_visa@7262";//for only visa cards catagory for testing
 
