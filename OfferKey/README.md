@@ -25,5 +25,16 @@ var1=guru_offer@7260(YOUR OFFER KEY)
 
 You need to pass generated hash using above logic to post data which is being send to PayU server.
 
+#####PayU response 
+When API is hit from app, PayU will give response back in json format : 
+```sh
+{"status":1,"msg":"Valid offer",
+"discount":5,
+"category":"creditcard",
+"offer_key":"guru_offer@7260",
+"offer_type":"instant",
+"offer_availed_count":"Unknown",
+"offer_remaining_count":"Unknown"}
 
+```
  
